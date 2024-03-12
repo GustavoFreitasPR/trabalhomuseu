@@ -1,0 +1,257 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;    
+}
+
+#area-logo{
+    padding-left: 110px;
+    padding-right: 20px;
+    margin: 10px;
+    display: inline-block;
+}
+
+#area-cabecalho{
+    background-color: #262217;
+    padding: 50px;
+
+}
+
+#area-menu{
+    padding-left: 135px;
+    margin: 10 px;
+    display: inline-block;
+    word-spacing: 10px;
+    font-size: 13px;
+    margin-left: 70px;
+    padding-bottom: 50px;
+    margin-right: 10;
+}
+
+#area-principal{
+    width: 920px;
+    padding: 15px;
+    margin-left: 150px;
+    display: inline-block;
+    
+}
+
+#area-postagens{
+    width: 660px;
+    float: left;
+    margin-top: -80px;
+}
+
+#area-lateral{
+    width: 240px;
+    float: right;
+    margin-top: -80px;
+    margin-bottom: 20px;
+}
+
+.postagem{
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f1eded;
+}
+.conteudo-lateral{
+    font-size: 9px;
+    padding: 5px;
+    background-color: #ffffff;
+    margin: 20px;
+}
+
+#video-mapa{
+    display: flex;
+    padding-left: 10px;
+    align-items: flex-start; 
+}
+
+#area-video{
+    margin-left: 160px;
+    margin-right: -10px; 
+    width: 50%; 
+}
+
+#mapa{
+    margin-left: -395px; 
+    width: 50%; 
+}
+
+#textos{
+    padding-top: 15px;
+    display: flex;
+    align-items: flex-start; 
+}
+
+#texto-exposicoes{
+    padding-left: 40px;
+    margin-left: 160px;  
+    font-size: 10px;
+}
+
+#texto-200anos{
+    margin-left: 140px;
+    font-size: 10px;
+}
+
+#area-lateral-visita{
+    display: flex;
+    align-items: flex-start;
+    margin-top: -400px; 
+    margin-left: 500px; 
+    clear: both;
+    
+
+}
+
+#visita{
+    background-color: #CDC8B1;
+    margin: 50px auto;
+    width: 270px;
+    height: 95px;
+    padding: 10px;
+    margin-left: 348px;
+    
+
+}
+
+#textos-visita{
+    padding-top: 13px;
+    padding-left: 15px;
+}
+
+#formulario{
+    padding-top: 5px;
+    font-size: 9px;
+    
+}
+
+#area-galeria-fotos-lateral{
+    display: flex;
+    align-items: flex-start;
+    margin-top: -59px; 
+    margin-left: 846px; 
+    clear: both;
+
+
+}
+
+#galeria{
+    width: 290px;
+    height: 260px;
+    background-color: #ebe7dd; 
+    margin-top: 10px; 
+}
+
+#texto-galeria{
+    padding-top: 13px;
+    padding-left: 24px;
+}
+
+#fundos{
+    position: absolute;
+    display: inline-block;
+    align-items: center;
+    clear: both;
+    padding-top: 8px ;
+    padding-left: 24px ;
+}
+
+#fundo1{
+    padding-right: 80px;   
+    padding-left: 10px; 
+}
+
+
+#fundo2{  
+    padding-right: 80px;    
+    padding-left: 10px;
+}
+
+
+#fotos1{
+    position: absolute;
+    padding-top:26px;
+    padding-left: 51px;
+}
+
+#fotos2{
+    position: absolute;
+    padding-top:26px;
+    padding-left:166px;
+}
+#fotos3{
+    position: absolute;
+    padding-top:140px;
+    padding-left: 51px; 
+}
+
+#fotos4{
+    position: absolute;
+    padding-top:140px;
+    padding-left:166px;
+}
+
+footer{
+    padding-top: 25px;
+    text-align: center;
+    word-spacing: 6px;
+    font-size: 10px;
+}
+
+
+
+
+button{
+    background-color: #9B9271;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 21px ;
+    width: 200px;
+    height: 30px;
+    outline: none;
+    cursor: pointer;
+    border: none;
+}
+
+h6{
+   color:#8C5E2B;
+   font-size: 10px;
+    
+}
+
+
+h4{
+    color: #367D29;
+    background-color: white;
+    padding: 5px;
+    margin-left: -29px;
+    font-size: 15px ;
+    padding-bottom: 15px;
+}
+
+h3{
+    color: #387449;
+    background-color: #ffffff;
+    padding: 5px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited{
+    color: #8A4413;
+}
+
+a:hover{
+    text-decoration: underline;
+}
